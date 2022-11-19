@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "first javascript project on hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x8251ae8c/frontend-project-44.git"
+  },
+  "keywords": [
+    "hexlet",
+    "javascript"
+  ],
+  "author": "0x8251ae8c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x8251ae8c/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/0x8251ae8c/frontend-project-44#readme"
+}
