@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/0x8251ae8c/frontend-project-44/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/0x8251ae8c/frontend-project-44#readme"
 }
