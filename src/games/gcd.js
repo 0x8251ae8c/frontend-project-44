@@ -25,7 +25,7 @@ export default function gcd() {
 
     const rightAnswer = findGcd(number1, number2);
 
-    const question = (`Question : ${number1} ${number2}`);
+    const question = (`Question: ${number1} ${number2}`);
     const gameRound = [question, rightAnswer.toString()];
 
     gameRounds.push(gameRound);

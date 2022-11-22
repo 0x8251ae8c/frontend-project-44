@@ -23,7 +23,7 @@ export default function prime() {
   for (let i = 0; i < NUMBER_OF_ROUNDS; i += 1) {
     const randomNumber = Math.round(Math.random() * 100 + 1);
 
-    const question = (`Question : ${randomNumber}`);
+    const question = (`Question: ${randomNumber}`);
     const rightAnswer = isPrime(randomNumber) ? 'yes' : 'no';
 
     const gameRound = [question, rightAnswer];

@@ -9,7 +9,7 @@ export default function even() {
   for (let i = 0; i < NUMBER_OF_ROUNDS; i += 1) {
     const randomNumber = Math.round(Math.random() * 100 + 1);
 
-    const question = (`Question : ${randomNumber}`);
+    const question = (`Question: ${randomNumber}`);
     const rightAnswer = ['yes', 'no'][randomNumber % 2];
 
     const gameRound = [question, rightAnswer];
